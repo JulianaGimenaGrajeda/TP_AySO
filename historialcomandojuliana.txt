@@ -1,0 +1,40 @@
+cd /varlog
+cd /var/log
+pdw
+cp
+cp boot.log /home/debian/Documentos
+su
+cd /home
+cd /juliana/Documentos
+cd /juliana/Documentos/
+cd /juliana/Documentos/ boot.log
+cd /juliana/
+pdw
+pdw /hombe/juliana
+ped
+pwd
+mkdir repogit
+cd repogit
+mkdir -p {carpetauno, carpetados}
+ls
+mkdir -p {carpetauno,carpetados}
+ls
+mkdir -p ejemplo/{uno,dos}
+ls
+ls ejemplo
+tree
+su
+tree
+man tree
+cd ..
+pwd
+useradd yo
+su
+sudo useradd yo
+su
+pwd
+cd ..
+ls
+ls -a
+ls -la
+su
