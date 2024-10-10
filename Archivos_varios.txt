@@ -1,0 +1,3 @@
+Archivos=(datosusuario.txt
+historialcomandojuliana.txt
+README.md)
